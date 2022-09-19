@@ -3,7 +3,7 @@ A script that creates an image file and a corresponding XML file for use in mach
 
 Steps for use:
 
-0. Delete example images in backgrounds/, cut_images/, and images/ folders
+0. Delete example images in *backgrounds/*, *cut_images/*, and *images/* folders
 
 1. Place background images in the *backgrounds/* folder and cut out PNG's in the *cut_images/* folder
 
