@@ -1,5 +1,5 @@
 # VOC XML Image Maker
-A script that creates image files and coresponding VOC XML files base on input background and PNG's
+A script that creates image files and coresponding VOC XML files base on input backgrounds and PNG's
 
 Steps for use:
 
