@@ -1,5 +1,5 @@
 # VOC XML Image Maker
-A script that creates an image file and a corresponding XML file for use in machine learning
+A script that creates image files and coresponding VOC XML files base on input background and PNG's
 
 Steps for use:
 
