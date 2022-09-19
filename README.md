@@ -1,2 +1,14 @@
-# VOX-XML-Image-Maker
+# VOC XML Image Maker
 A script that creates an image file and a corresponding XML file for use in machine learning
+
+Steps for use:
+
+0. Delete example images in backgrounds/, cut_images/, and images/ folders
+
+1. Place background images in the *backgrounds/* folder and cut out PNG's in the *cut_images/* folder
+
+2. Change the variable *PICTURE_USAGE* at the top of the script to derired number of times each PNG must be used
+
+3. Change the *IMAGE_WIDTH* and *IMAGE_HEIGHT* variables to the width and height of you background images
+
+4. Run the script and the output images will appear in the *images/* folder
